@@ -28,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		B39508E1237DFF8B0019E179 /* UINavigationBar+Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UINavigationBar+Color.swift"; sourceTree = "<group>"; };
+		B39508E5237E08F10019E179 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B3D65377229B1FDA00734DCA /* LayoutMarginsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LayoutMarginsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3D6537A229B1FDA00734DCA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B3D65383229B1FDE00734DCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -71,6 +72,7 @@
 		B3D6536E229B1FDA00734DCA = {
 			isa = PBXGroup;
 			children = (
+				B39508E5237E08F10019E179 /* README.md */,
 				B3D65379229B1FDA00734DCA /* LayoutMarginsDemo */,
 				B3D65390229B1FDE00734DCA /* LayoutMarginsDemoTests */,
 				B3D65378229B1FDA00734DCA /* Products */,
